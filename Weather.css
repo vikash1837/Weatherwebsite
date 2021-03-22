@@ -1,0 +1,16 @@
+.error{
+  font-size:40px;
+  color:red;
+}
+.Weather-div{
+    margin-left:550px;
+    margin-right:550px;
+    padding-left:140px;
+    padding-right:90px;
+    color:rgb(228, 183, 111);
+    font-size:18px;
+    background-image:url(https://images.unsplash.com/photo-1529973625058-a665431328fb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1868&q=80);
+    box-shadow:-30px 30px 20px rgba(0,0,0,0.4);
+    border-radius: 8%;
+}
+
